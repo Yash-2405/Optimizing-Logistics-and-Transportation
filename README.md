@@ -1,4 +1,4 @@
-## Optimizing-Logistics-and-Transportation
+# Optimizing-Logistics-and-Transportation
 ![image](https://github.com/user-attachments/assets/e1f0e487-628f-4035-bb38-3fbe408d64e2)
 
 # Overview
@@ -8,6 +8,7 @@ This repository contains the code and resources for a project aimed at optimizin
 # Team Members:
 
 Yash V
+
 Aditi AV
 
 # Problem Statement
@@ -15,7 +16,7 @@ Logistics companies often face challenges in managing routes, inventory, and man
 ![image](https://github.com/user-attachments/assets/fe1ef264-be25-4c1c-8b14-a2b5a24712bf)
 
 
-## Approach
+# Approach
 ![image](https://github.com/user-attachments/assets/49db142f-8823-41d4-beb8-109e1c610acf)
 
 # Hybrid Optimization Approach
@@ -57,7 +58,8 @@ Improved Customer Satisfaction: Through reliable inventory availability and effi
 
 Environmental Impact Reduction: By lowering emissions through optimized routes.
 
-## How to Clone and Set Up the Repository
+# How to Clone and Set Up the Repository
+
 # To get started with the project, follow these steps:
 
 1. Clone the Repository
